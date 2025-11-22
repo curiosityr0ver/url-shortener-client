@@ -52,7 +52,7 @@ The project uses environment variables for different environments:
 **Production:** Update `.env.production` with your deployed backend URL:
 
 ```env
-VITE_API_URL=https://your-backend-api.onrender.com
+VITE_API_URL=https://urlshortener-app-8rw4.onrender.com
 ```
 
 Or set it when building:
@@ -135,7 +135,7 @@ Each URL card has a refresh button (🔄) to fetch the latest hit count without 
 
 Edit `.env.production`:
 ```env
-VITE_API_URL=https://your-deployed-backend.onrender.com
+VITE_API_URL=https://urlshortener-app-8rw4.onrender.com
 ```
 
 2. **Build the project**
@@ -168,7 +168,7 @@ VITE_API_URL=http://localhost:8081
 
 **`.env.production`** (for `npm run build`):
 ```env
-VITE_API_URL=https://your-production-backend.com
+VITE_API_URL=https://urlshortener-app-8rw4.onrender.com
 ```
 
 You can also override at build time:
@@ -250,9 +250,6 @@ npm install
 npm run build
 ```
 
-## 📄 License
-
-This project is part of the 3Cortex submission.
 
 ## 🤝 Support
 
