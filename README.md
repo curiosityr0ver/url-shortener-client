@@ -2,6 +2,11 @@
 
 A modern, brutalist-themed URL shortener application with a React frontend and Spring Boot backend.
 
+## 🌐 Live Demo
+
+- **Frontend:** [https://url-shortener-client-red.vercel.app](https://url-shortener-client-red.vercel.app)
+- **Backend API:** [https://urlshortener-app-8rw4.onrender.com](https://urlshortener-app-8rw4.onrender.com)
+
 ## 🎨 Features
 
 - **Guest & Authenticated URL Creation**: Create short URLs without logging in, or register to track and manage your links
